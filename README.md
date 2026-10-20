@@ -1,14 +1,21 @@
-<h1 align="center">Hi, I'm Manya 👋</h1>
-<h3 align="center">3rd-year CS student | Deep Learning, Computer Vision & Graph ML</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ManyaChaubey10&label=Profile%20views&color=blueviolet&style=flat" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/ManyaChaubey10?style=social" alt="followers" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Manya%20Chaubey&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=✦%20Exploring%20the%20universe%20of%20AI%20✦&descAlignY=60&descSize=18" alt="header" />
 
----
+<a href="https://github.com/ManyaChaubey10">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3500&pause=1000&color=B388FF&center=true&vCenter=true&width=650&lines=3rd-year+CS+student+%F0%9F%8E%93;Deep+Learning+%7C+Computer+Vision+%7C+Graph+ML+%F0%9F%9B%B0%EF%B8%8F;Turning+sign+language+into+voice+%F0%9F%A4%9F;Hunting+Bitcoin+fraud+with+GNNs+%F0%9F%94%8D" alt="typing animation" />
+</a>
 
-### 🚀 About Me
+<br/><br/>
+
+<img src="https://img.shields.io/github/followers/ManyaChaubey10?style=for-the-badge&logo=github&color=7B2FF7&labelColor=0f0c29" alt="followers" />
+<img src="https://img.shields.io/badge/Status-Exploring%20the%20Cosmos-B388FF?style=for-the-badge&labelColor=0f0c29" alt="status" />
+
+<p>✦ ˚ ⋆ ｡ ˚ ✧ ˚ ⋆ ｡ ˚ ✦</p>
+
+</div>
+
+### 🪐 About Me
 
 - 🎓 Third-year college student focused on machine learning and computer vision
 - 🔭 Currently working on **Elliptic**, Bitcoin fraud detection with graph ML
@@ -17,9 +24,9 @@
 - 💬 Ask me about **Python, PyTorch, OpenCV, and deep learning**
 - 📫 Reach me at **manyachaubey031@gmail.com**
 
----
+<p align="center">✦ ˚ ⋆ ｡ ˚ ✧ ˚ ⋆ ｡ ˚ ✦</p>
 
-### 🛠️ Tech Stack
+### 🛰️ Tech Stack
 
 **Languages**
 
@@ -67,9 +74,9 @@
 
 `MLOps` · `MLflow` · `DVC` · `CI/CD for Machine Learning`
 
----
+<p align="center">✦ ˚ ⋆ ｡ ˚ ✧ ˚ ⋆ ｡ ˚ ✦</p>
 
-### 📌 Featured Projects
+### 🚀 Missions (Featured Projects)
 
 #### 🤟 Iris: Vision to Voice
 A real-time computer vision and deep learning system that translates **American Sign Language (ASL)** gestures directly into spoken audio.
@@ -93,22 +100,24 @@ Fraud detection on the Elliptic dataset, a widely used benchmark of 200k+ Bitcoi
 
 👉 [See all my repositories](https://github.com/ManyaChaubey10?tab=repositories)
 
----
+<p align="center">✦ ˚ ⋆ ｡ ˚ ✧ ˚ ⋆ ｡ ˚ ✦</p>
 
-### 📊 GitHub Stats
+### ☄️ GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ManyaChaubey10&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManyaChaubey10&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ManyaChaubey10&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0f0c29" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManyaChaubey10&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0f0c29" />
 </p>
 
----
+<p align="center">✦ ˚ ⋆ ｡ ˚ ✧ ˚ ⋆ ｡ ˚ ✦</p>
 
-### 🌐 Connect With Me
+### 📡 Contact Mission Control
 
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/manya-chaubey-003321328/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:manyachaubey031@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
-<p align="center"><i>✨ Thanks for stopping by! ✨</i></p>
+<p align="center"><i>✨ Thanks for stopping by, space traveler! ✨</i></p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%" alt="footer" />
