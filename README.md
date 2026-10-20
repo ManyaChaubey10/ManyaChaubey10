@@ -1,7 +1,5 @@
-## Hi there 👋
-
-<h1 align="center">Hi there, I'm Manya 👋</h1>
-<h3 align="center">[Your title, e.g. Aspiring Full-Stack Developer | Problem Solver | Open-Source Enthusiast]</h3>
+<h1 align="center">Hi, I'm Manya 👋</h1>
+<h3 align="center">3rd-year CS student | Deep Learning, Computer Vision & Graph ML</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ManyaChaubey10&label=Profile%20views&color=blueviolet&style=flat" alt="profile views" />
@@ -12,60 +10,41 @@
 
 ### 🚀 About Me
 
-- 🔭 I'm currently working on **[project name]**
-- 🌱 I'm currently learning **[e.g. React, DSA, Machine Learning]**
-- 👯 I'm looking to collaborate on **[e.g. open-source web projects]**
-- 🤔 I'm looking for help with **[topic]**
-- 💬 Ask me about **[e.g. Python, web dev, college life]**
-- 📫 Reach me at **[your email]**
-- 😄 Pronouns: **[she/her]**
-- ⚡ Fun fact: **[something memorable]**
+- 🎓 Third-year college student focused on machine learning and computer vision
+- 🔭 Currently working on **Elliptic**, Bitcoin fraud detection with graph ML
+- 🌱 Currently exploring **MLOps, MLflow, DVC, and CI/CD for ML**
+- 🧠 Interested in **time series forecasting, GNNs, and computational neuroscience**
+- 💬 Ask me about **Python, PyTorch, OpenCV, and deep learning**
+- 📫 Reach me at **manyachaubey031@gmail.com**
 
 ---
 
 ### 🛠️ Tech Stack
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-</p>
+**Languages**
 
----
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
-### 📊 GitHub Stats
+**Machine Learning**
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ManyaChaubey10&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManyaChaubey10&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-189AB4?style=for-the-badge)
+![LightGBM](https://img.shields.io/badge/LightGBM-2980B9?style=for-the-badge)
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ManyaChaubey10&theme=tokyonight&hide_border=true" />
-</p>
+**Deep Learning & Computer Vision**
 
----
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge)
 
-### 📌 Featured Projects
+`CNNs` · `Vision Transformers (ViT)`
 
-| Project | Description | Tech |
-|---------|-------------|------|
-| [Project 1](https://github.com/ManyaChaubey10/repo-name) | One-line description | Python, Flask |
-| [Project 2](https://github.com/ManyaChaubey10/repo-name) | One-line description | React, Node.js |
+**Data Science & Analysis**
 
----
-
-### 🌐 Connect With Me
-
-<p align="left">
-  <a href="https://linkedin.com/in/your-id"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://twitter.com/your-handle"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-</p>
-
-<p align="center"><i>✨ Thanks for stopping by! Feel free to explore my repos. ✨</i></p>
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
+![Matplotlib](http
