@@ -3,7 +3,7 @@
 <img src="graph-banner.svg" width="100%" alt="Manya Chaubey: animated graph neural network in space" />
 
 <a href="https://github.com/ManyaChaubey10">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3500&pause=1000&color=B388FF&center=true&vCenter=true&width=650&lines=3rd-year+CS+student+%F0%9F%8E%93;Deep+Learning+%7C+Computer+Vision+%7C+Graph+ML+%F0%9F%9B%B0%EF%B8%8F;Turning+sign+language+into+voice+%F0%9F%A4%9F;Hunting+Bitcoin+fraud+with+GNNs+%F0%9F%94%8D" alt="typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3500&pause=1000&color=B388FF&center=true&vCenter=true&width=650&lines=3rd-year+CS+student+%F0%9F%8E%93;Deep+Learning+%7C+Computer+Vision+%7C+Graph+ML+%F0%9F%9B%B0%EF%B8%8F;Turning+sign+language+into+voice;Finding+Bitcoin+fraud+with+GNNs+%F0%9F%94%8D" alt="typing animation" />
 </a>
 
 <br/><br/>
@@ -88,7 +88,7 @@ A real-time computer vision and deep learning system that translates **American 
   3. **Audio synthesis:** triggers a real-time text-to-speech engine for fluid accessibility output
 - **Tech:** `PyTorch` · `OpenCV` · `MediaPipe` · `Python`
 
-#### ✨ Elliptic: Bitcoin Fraud Detection & Graph ML 🔨 *In progress*
+#### ✨ Elliptic: Bitcoin Fraud Detection & Graph ML  *In progress*
 Fraud detection on the Elliptic dataset, a widely used benchmark of 200k+ Bitcoin transactions over time, applied to anti-money laundering (AML) and financial crime detection.
 
 - **Architecture:** Modeled as a directed transaction graph where nodes are Bitcoin transactions and edges are payment flows across temporal snapshots.
