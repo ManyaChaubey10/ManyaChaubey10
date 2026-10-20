@@ -105,7 +105,7 @@ Fraud detection on the Elliptic dataset, a widely used benchmark of 200k+ Bitcoi
 ### ☄️ GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ManyaChaubey10&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0f0c29" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ManyaChaubey10&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0f0c29&&hide_rank=true" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManyaChaubey10&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0f0c29" />
 </p>
 
@@ -118,6 +118,6 @@ Fraud detection on the Elliptic dataset, a widely used benchmark of 200k+ Bitcoi
   <a href="mailto:manyachaubey031@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
-<p align="center"><i>✨ Thanks for stopping by, space traveler! ✨</i></p>
+<p align="center"><i>✨ Thanks for stopping by! ✨</i></p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%" alt="footer" />
