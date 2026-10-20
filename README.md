@@ -9,7 +9,7 @@
 <br/><br/>
 
 <img src="https://img.shields.io/github/followers/ManyaChaubey10?style=for-the-badge&logo=github&color=7B2FF7&labelColor=0f0c29" alt="followers" />
-<img src="https://img.shields.io/badge/Status-Exploring%20the%20Cosmos-B388FF?style=for-the-badge&labelColor=0f0c29" alt="status" />
+<img src="https://img.shields.io/badge/Status-Building%20Elliptic-B388FF?style=for-the-badge&labelColor=0f0c29" alt="status" />
 
 <p>✦ ˚ ⋆ ｡ ˚ ✧ ˚ ⋆ ｡ ˚ ✦</p>
 
