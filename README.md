@@ -17,12 +17,10 @@
 
 ### ✨ About Me
 
-- 🎓 Third-year college student focused on machine learning and computer vision
-- 🔭 Currently working on **Elliptic**, Bitcoin fraud detection with graph ML
-- 🌱 Currently exploring **MLOps, MLflow, DVC, and CI/CD for ML**
-- 🧠 Interested in **time series forecasting, GNNs, and computational neuroscience**
-- 💬 Ask me about **Python, PyTorch, OpenCV, and deep learning**
-- 📫 Reach me at **manyachaubey031@gmail.com**
+-  Third-year college student 
+-  Currently working on **Elliptic**, Bitcoin fraud detection with graph ML
+-  Currently exploring **MLOps, MLflow, DVC, and CI/CD for ML**
+-  Interested in **time series forecasting, GNNs, and computational neuroscience**
 
 <p align="center">✦ ˚ ⋆ ｡ ˚ ✧ ˚ ⋆ ｡ ˚ ✦</p>
 
@@ -113,7 +111,7 @@ Fraud detection on the Elliptic dataset, a widely used benchmark of 200k+ Bitcoi
 ### ✨ GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ManyaChaubey10&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0f0c29&hide_rank=true" />
+   <img height="170" src="https://github-readme-stats.vercel.app/api?username=ManyaChaubey10&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0f0c29&hide_rank=true&commits_year=2026" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManyaChaubey10&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0f0c29" />
 </p>
 
