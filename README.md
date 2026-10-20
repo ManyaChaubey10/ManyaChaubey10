@@ -15,7 +15,7 @@
 
 </div>
 
-### 🪐 About Me
+### ✨ About Me
 
 - 🎓 Third-year college student focused on machine learning and computer vision
 - 🔭 Currently working on **Elliptic**, Bitcoin fraud detection with graph ML
@@ -76,9 +76,9 @@
 
 <p align="center">✦ ˚ ⋆ ｡ ˚ ✧ ˚ ⋆ ｡ ˚ ✦</p>
 
-### 🚀 Missions (Featured Projects)
+### ✨ Projects-
 
-#### 🤟 Iris: Vision to Voice
+#### ✨ Iris: Vision to Voice
 A real-time computer vision and deep learning system that translates **American Sign Language (ASL)** gestures directly into spoken audio.
 
 - **Architecture:** Combines spatial vision models with temporal sequencing, using hand and body pose tracking (MediaPipe / OpenCV) to capture keypoint trajectories and dynamic gestures.
@@ -88,7 +88,7 @@ A real-time computer vision and deep learning system that translates **American 
   3. **Audio synthesis:** triggers a real-time text-to-speech engine for fluid accessibility output
 - **Tech:** `PyTorch` · `OpenCV` · `MediaPipe` · `Python`
 
-#### 🔍 Elliptic: Bitcoin Fraud Detection & Graph ML 🔨 *In progress*
+#### ✨ Elliptic: Bitcoin Fraud Detection & Graph ML 🔨 *In progress*
 Fraud detection on the Elliptic dataset, a widely used benchmark of 200k+ Bitcoin transactions over time, applied to anti-money laundering (AML) and financial crime detection.
 
 - **Architecture:** Modeled as a directed transaction graph where nodes are Bitcoin transactions and edges are payment flows across temporal snapshots.
@@ -98,11 +98,11 @@ Fraud detection on the Elliptic dataset, a widely used benchmark of 200k+ Bitcoi
   3. **Temporal analysis:** processes the network chronologically across time steps to capture how fraud behavior changes
 - **Tech:** `PyTorch Geometric` · `XGBoost` · `NetworkX` · `SciPy`
 
-👉 [See all my repositories](https://github.com/ManyaChaubey10?tab=repositories)
+✨ [See all my repositories](https://github.com/ManyaChaubey10?tab=repositories)
 
 <p align="center">✦ ˚ ⋆ ｡ ˚ ✧ ˚ ⋆ ｡ ˚ ✦</p>
 
-### 🐍 Contribution Snake
+### ✨ Contribution Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/ManyaChaubey10/ManyaChaubey10/output/github-snake-space.svg" alt="Contribution snake" />
@@ -110,7 +110,7 @@ Fraud detection on the Elliptic dataset, a widely used benchmark of 200k+ Bitcoi
 
 <p align="center">✦ ˚ ⋆ ｡ ˚ ✧ ˚ ⋆ ｡ ˚ ✦</p>
 
-### ☄️ GitHub Stats
+### ✨ GitHub Stats
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=ManyaChaubey10&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0f0c29&hide_rank=true" />
@@ -119,7 +119,7 @@ Fraud detection on the Elliptic dataset, a widely used benchmark of 200k+ Bitcoi
 
 <p align="center">✦ ˚ ⋆ ｡ ˚ ✧ ˚ ⋆ ｡ ˚ ✦</p>
 
-### 📡 Contact Mission Control
+### ✨ Contact Mission Control
 
 <p align="center">
   <a href="https://www.linkedin.com/in/manya-chaubey-003321328/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
