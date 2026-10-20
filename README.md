@@ -3,7 +3,7 @@
 <img src="graph-banner.svg" width="100%" alt="Manya Chaubey: animated graph neural network in space" />
 
 <a href="https://github.com/ManyaChaubey10">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3500&pause=1000&color=B388FF&center=true&vCenter=true&width=650&lines=3rd-year+CS+student+%F0%9F%8E%93;Deep+Learning+%7C+Computer+Vision+%7C+Graph+ML;Turning+sign+language+into+voice;Finding+Bitcoin+fraud+with+GNNs" alt="typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3500&pause=1000&color=B388FF&center=true&vCenter=true&width=650&lines=3rd-year+CS+student;Deep+Learning+%7C+Computer+Vision+%7C+Graph+ML;Turning+sign+language+into+voice;Finding+Bitcoin+fraud+with+GNNs" alt="typing animation" />
 </a>
 
 <br/><br/>
